@@ -10,6 +10,7 @@ body {
   background-color: #2B124C;
   font-family: 'Roboto', sans-serif;
   font-family: 'Roboto Condensed', sans-serif;
+  padding: 0;
 }
 .header_title h1 {
   background-color: #190019;
