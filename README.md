@@ -1,3 +1,3 @@
-# web
+# Creating my portfolio
 
-Some description
+This is my exercise on my front end learning that will contain all of my projects I will do
